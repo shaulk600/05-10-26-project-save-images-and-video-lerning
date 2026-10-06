@@ -1,0 +1,10 @@
+private-test/
+# 
+.env
+
+
+# 
+vs/
+bin/
+
+
